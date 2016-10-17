@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>listadeespera</name>
+	<displayName><![CDATA[Lista de espera]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Listado de clientes a la espera de productos]]></description>
+	<author><![CDATA[David Torres]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Seguro que quieres desinstalarlo?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
